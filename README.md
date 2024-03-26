@@ -4,7 +4,7 @@ Fine-Tuning LLaMA-2 with QLORA
 
 **Project Overview**
 
-This project aims to fine-tune the LLaMA-2 model using the Quantum Logic ORiented Approximation (QLORA) technique, specifically targeting the "mlabonne/guanaco-llama2-1k" dataset. QLORA is a parameter-efficient fine-tuning method that modifies only a subset of the model's parameters, offering a balance between performance and efficiency. This approach is particularly beneficial for adapting large pre-trained models to specialized tasks or datasets with limited computational resources.
+This project aims to fine-tune the LLaMA-2 model using the QLORA technique, specifically targeting the "mlabonne/guanaco-llama2-1k" dataset. QLORA is a parameter-efficient fine-tuning method that modifies only a subset of the model's parameters, offering a balance between performance and efficiency. This approach is particularly beneficial for adapting large pre-trained models to specialized tasks or datasets with limited computational resources.
 
 **Dataset**
 
