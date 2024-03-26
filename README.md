@@ -19,6 +19,9 @@ To demonstrate a workflow for efficiently adapting large language models to spec
 **Methodology**
 
 **Dataset Preparation:** Loaded and preprocessed the "mlabonne/guanaco-llama2-1k" dataset for compatibility with LLaMA-2's input requirements.
+
 **Model Setup:** Selected the LLaMA-2 model for its robust capabilities in language understanding and generation. Integrated the QLORA fine-tuning technique into the model to enable efficient parameter updates.
+
 **Fine-Tuning Process:** Conducted fine-tuning of the LLaMA-2 model using the QLORA approach, focusing on optimizing for the specific characteristics of the dataset.
+
 **Evaluation:** Measured the fine-tuned model's performance using relevant metrics, demonstrating the effectiveness of QLORA in enhancing model accuracy and efficiency on the targeted task.
